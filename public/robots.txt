@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /og-preview.jpg
+
+User-agent: WhatsApp
+Allow: /
+Allow: /og-preview.jpg
+
+User-agent: facebookexternalhit
+Allow: /
+Allow: /og-preview.jpg
+
+User-agent: Twitterbot
+Allow: /
+Allow: /og-preview.jpg

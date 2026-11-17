@@ -1,0 +1,6 @@
+{
+  "name": "Dental Health",
+  "description": "Trusted Dentist in West New York providing advanced cosmetic dentistry, porcelain veneers, teeth whitening, and guided 3D dental implants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
